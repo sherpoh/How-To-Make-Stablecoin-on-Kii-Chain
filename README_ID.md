@@ -43,5 +43,3 @@ Buat halaman HTML/JS dengan form input alamat dan jumlah token. Tambahkan tombol
 
 ### 6. Done
 Stablecoin IDR siap digunakan dan dimint oleh siapa saja. Repositori ini bisa dijadikan template untuk stablecoin lain di ekosistem Kii Chain.
-
-# Video Tutorial
