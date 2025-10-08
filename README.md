@@ -43,5 +43,3 @@ Create an HTML/JS page with an input form for the address and token amount. Add 
 
 ### 6. Done
 The IDR stablecoin is ready to be used and minted by anyone. This repository can be used as a template for other stablecoins in the Kii Chain ecosystem.
-
-# Video Tutorial
